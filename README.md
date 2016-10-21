@@ -1,6 +1,8 @@
 # pokestats
 A simple shiny app to explore some data from the popular videogame *Pokemon*. 
 
+:star: New update soon! :star:
+
 ![Pokestats](example.png)
 
 To run the app, use the following lines of code in **R**:
