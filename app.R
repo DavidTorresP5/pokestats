@@ -15,7 +15,7 @@ ui <- tagList(
     theme = shinytheme("flatly"),"PokeStats",
     tabPanel("Inicio",
              mainPanel(
-               img(src="PokeStats.png")
+               img(src="https://s14.postimg.org/tdpnz4d5d/Poke_Stats.png")
              )
       
     ),
