@@ -20,4 +20,5 @@ library(shiny)
 runGitHub("pokestats", "DavidTorresP5")
 ```
 Use this [script](requirements.R) to install the packages faster.
+
 You can download the data following this [link](https://www.kaggle.com/abcsds/pokemon).
