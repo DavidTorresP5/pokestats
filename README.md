@@ -3,7 +3,13 @@ A simple shiny app to explore some data from the popular videogame *Pokemon*.
 
 :star: New update soon! :star:
 
-![Pokestats](pokest.png)
+![Pokestats1](pictures/pkst_1.png)
+
+![Pokestats2](pictures/pkst_2.png)
+
+![Pokestats3](pictures/pkst_3.png)
+
+![Pokestats4](pictures/pkst_4.png)
 
 To prepare the enviroment for the app, run the following lines of code in **R**:
 
