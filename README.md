@@ -5,9 +5,15 @@ A simple shiny app to explore some data from the popular videogame *Pokemon*.
 
 ![Pokestats1](pictures/pkst_1.png)
 
+Search your favourite pokemon and see its stats...
+
 ![Pokestats2](pictures/pkst_2.png)
 
+Compare types, generations...
+
 ![Pokestats3](pictures/pkst_3.png)
+
+Explore correlations!
 
 ![Pokestats4](pictures/pkst_4.png)
 
@@ -20,6 +26,7 @@ install.packages("ggplot2")
 install.packages("shiny")
 install.packages("shinythemes")
 install.packages("dplyr")
+install.packages("tidyr")
 ```
 Or use this [script](requirements.R) to install the packages faster.
 
