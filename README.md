@@ -1,9 +1,8 @@
-# pokestats
-A simple shiny app to explore some data from the popular videogame *Pokemon*. 
+![Pokestats1](pictures/pkst_1.png)
+
+A shiny app to explore some data from the popular videogame *Pokemon*. 
 
 :star: New update soon! :star:
-
-![Pokestats1](pictures/pkst_1.png)
 
 Search your favourite pokemon and see its stats...
 
